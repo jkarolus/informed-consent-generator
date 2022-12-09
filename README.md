@@ -1,4 +1,6 @@
-# Informed Consent Generator
-- For HCI purposes only
-- Generates GDPR conform informed consents
-- Optimized to use the print function of your browser (e.g. Chrome -> remove header/footer)
+# Automated Informed Consent Generator 
+Created for scientific experiments in the field of HCI-related user and experimental studies.
+
+Used web technologies:
+- HTML
+- Javascript
